@@ -1,3 +1,11 @@
 <h1>Data Manipulation at Scale: Systems and Algorithms</h1>
 
 <h2>Атаманюк Олексій КП-71, ФПМ</h2>
+
+<h3>Результати</h3>
+
+![results](finish.jpg)
+
+<h3>Сертифікат</h3>
+
+![Certificate](certificate.jpg)
