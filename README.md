@@ -9,3 +9,6 @@
 <h3>Сертифікат</h3>
 
 ![Certificate](certificate.jpg)
+
+
+[Посилання на сертифікат](https://coursera.org/share/2a169e006e7a2a732ae431289d101a9f)
